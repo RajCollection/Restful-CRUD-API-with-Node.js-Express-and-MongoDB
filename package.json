@@ -1,0 +1,24 @@
+{
+  "name": "restful-crud-api-with-node.js-express-and-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajCollection/Restful-CRUD-API-with-Node.js-Express-and-MongoDB.git"
+  },
+  "author": "rajpeer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RajCollection/Restful-CRUD-API-with-Node.js-Express-and-MongoDB/issues"
+  },
+  "homepage": "https://github.com/RajCollection/Restful-CRUD-API-with-Node.js-Express-and-MongoDB#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.17"
+  }
+}
